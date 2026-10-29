@@ -11,7 +11,7 @@ Otwórz aplikację na porcie 8000. Nie wymaga instalacji zależności. Dane i zm
 
 ## Co działa
 
-Dodawanie i usuwanie wpisów, filtry okresu, podsumowania, ranking, wykres, eksport filtrowanych wpisów do CSV. Kwota jest całkowitą wartością straty, a najczęstsza przyczyna liczona jest według liczby wpisów. Wykres dla całego okresu pokazuje maksymalnie 10 ostatnich wpisów; dla 7 i 30 dni pokazuje przedziały czasu. Nie należy sumować jednostek o różnych wymiarach.
+Osobne widoki: pulpit, rejestr strat, produkty, analityka i ustawienia. Dodawanie i usuwanie wpisów, wyszukiwanie, filtrowanie po okresie, kategorii i przyczynie, sortowanie, podsumowania, ranking, analiza kategorii i przyczyn, wykres oraz eksport filtrowanych wpisów do CSV. Kwota jest całkowitą wartością straty, a najczęstsza przyczyna liczona jest według liczby wpisów. Wykres dla całego okresu pokazuje maksymalnie 10 ostatnich wpisów; dla 7 i 30 dni pokazuje przedziały czasu. Nie należy sumować jednostek o różnych wymiarach.
 
 ## Kolejne kroki
 
