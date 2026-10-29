@@ -1,6 +1,6 @@
 # GastroPulse
 
-Interaktywny prototyp portfolio dla gastronomii: ręczny rejestr strat i panel analityczny. Niezależny od GoPOS; wszystkie początkowe wpisy są fikcyjne. Bez kont, integracji POS, backendu i funkcji AI; wskazówki wynikają z prostego rankingu.
+Interaktywny prototyp portfolio dla gastronomii: ręczny rejestr strat i panel analityczny. Wszystkie początkowe wpisy są fikcyjne. Bez kont, integracji POS, backendu i funkcji AI; wskazówki wynikają z prostego rankingu.
 
 ## Uruchomienie
 
@@ -15,7 +15,7 @@ Osobne widoki: pulpit, rejestr strat, produkty, analityka i ustawienia. Dodawani
 
 ## Kolejne kroki
 
-Zweryfikować problem i prototyp z użytkownikami; zaprojektować konta, separację lokali, reguły RLS i migracje przed zastosowaniem Supabase. Dostępny konektor nie zwrócił żadnych projektów Supabase. Żadna integracja GoPOS ani baza nie została skonfigurowana. Plan i hipotezy znajdują się w Notion.
+Zweryfikować problem i prototyp z użytkownikami; zaprojektować konta, separację lokali, reguły RLS i migracje przed zastosowaniem Supabase. Dostępny konektor nie zwrócił żadnych projektów Supabase. Żadna integracja POS ani baza nie została skonfigurowana. Plan i hipotezy znajdują się w Notion.
 
 ## Wdrożenie na Vercel
 
